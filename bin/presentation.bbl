@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+
+\bibitem{saocarlos}
+{\^A}.~R. Bianchini.
+\newblock Arquitetura de redes neurais para o reconhecimento facial baseado no
+  neocognitron.
+\newblock Master's thesis, Universidade Federal de S{\~a}o Carlos, 2001.
+
+\bibitem{fabriciobuzzeto}
+F.~N. Buzeto.
+\newblock Um conjunto de solu{\c c}{\~o}es para a constru{\c c}{\~a}o de
+  aplicativos de computa{\c c}{\~a}o ub{\'\i}qua.
+\newblock Master's thesis, Departamento de Ci{\^e}ncia da Computa{\c c}{\~a}o,
+  Universidade de Bras{\'\i}lia,
+  http://monografias.cic.unb.br/dspace/handle/123456789/257, 2010.
+
+\bibitem{hewitt}
+R.~Hewitt.
+\newblock Face recognition with eigenface.
+\newblock {\em SERVO Magazine}, 2007.
+
+\bibitem{yang}
+N.~Ahuja M.~Yang, D. J.~Kriegman.
+\newblock Detecting faces in images: A survey.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  24(1):34--58, janeiro 2002.
+
+\bibitem{violajones}
+M.~Jones P.~Viola.
+\newblock Robust real-time object detection.
+\newblock {\em Second International Workshop on Statistical and Computational
+  Theories of Vision -- Modeling, Learning, Computing, and Sampling}, julho
+  2001.
+
+\bibitem{weiser2}
+M.~Weiser.
+\newblock The world is not a desktop.
+\newblock {\em Interactions}, 1:7--8, Janeiro 1994.
+
+\end{thebibliography}
