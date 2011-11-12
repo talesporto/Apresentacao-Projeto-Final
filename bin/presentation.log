@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.19)  12 NOV 2011 17:56
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.19)  12 NOV 2011 19:18
 entering extended mode
  Source specials enabled.
  %&-line parsing enabled.
@@ -1063,19 +1063,51 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [3
 
+] [4
+
+] [5
+
+] [6
+
+]
+! Undefined control sequence.
+\beamer@doifinframe ...e novo, denomidado \textif 
+                                                  {Kinect} e na confiabilida...
+l.125 	\end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
+
 ] (./presentation.bbl
 Overfull \hbox (15.47075pt too wide) in paragraph at lines 13--16
 \OT1/cmss/m/n/10.95 http://monografias.cic.unb.br/dspace/handle/123456789/257, 
 
  []
 
-) [4
+) [14
 
  </usr/share/texmf/tex/latex/beamer/base/art/beamericonarticle.pdf>]
-[5
+[15
 
 
-] [6
+] [16
 
 ]
 \tf@nav=\write6
@@ -1094,32 +1126,24 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 15179 strings out of 495061
- 283313 string characters out of 1182620
- 351020 words of memory out of 3000000
- 17934 multiletter control sequences out of 15000+50000
- 6114 words of font info for 22 fonts, out of 3000000 for 9000
+ 15280 strings out of 495061
+ 284838 string characters out of 1182620
+ 356020 words of memory out of 3000000
+ 18005 multiletter control sequences out of 15000+50000
+ 6408 words of font info for 23 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,16n,64p,427b,647s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation7} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3} has been referenced but does not exist,
- replaced by a fixed one
+pdfTeX warning (dest): name{Navigation17} has been referenced but does not ex
+ist, replaced by a fixed one
 
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
 /texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-texl
 ive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/public/amsfonts/cm/cmssi10.pfb>
-Output written on presentation.pdf (6 pages, 103048 bytes).
+pe1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmssi10.pfb>
+Output written on presentation.pdf (16 pages, 212237 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 765 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
