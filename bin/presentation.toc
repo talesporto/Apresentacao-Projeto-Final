@@ -13,5 +13,9 @@
 \beamer@subsectionintoc {4}{4}{Integra\IeC {\c c}\IeC {\~a}o}{12}{0}{4}
 \beamer@subsectionintoc {4}{5}{Rela\IeC {\c c}\IeC {\~a}o entre os modulos}{13}{0}{4}
 \beamer@sectionintoc {5}{Resultados obtidos}{14}{0}{5}
-\beamer@sectionintoc {6}{Conclus\IeC {\~a}o}{14}{0}{6}
-\beamer@sectionintoc {7}{Refer\IeC {\^e}ncias}{14}{0}{7}
+\beamer@subsectionintoc {5}{1}{Rastreamento}{15}{0}{5}
+\beamer@subsectionintoc {5}{2}{Localiza\IeC {\c c}\IeC {\~a}o}{19}{0}{5}
+\beamer@subsectionintoc {5}{3}{Identifica\IeC {\c c}\IeC {\~a}o}{23}{0}{5}
+\beamer@subsectionintoc {5}{4}{Integra\IeC {\c c}\IeC {\~a}o}{25}{0}{5}
+\beamer@sectionintoc {6}{Conclus\IeC {\~a}o}{26}{0}{6}
+\beamer@sectionintoc {7}{Refer\IeC {\^e}ncias}{27}{0}{7}

@@ -9,6 +9,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amsfonts}
 \usepackage{amsmath}
+\usepackage{float}
+\usepackage{subfig}
 
 \mode<presentation>
 {
@@ -129,6 +131,10 @@
 
 	\begin{frame}
     	\frametitle{Sistema TRUE}
+    	
+    	TRUE \rightarrow \textit{\textbf{T}racking and \textbf{R}ecognizing
+    	\textbf{U}sers in the \textbf{E}nvironment}.
+    	
     	O sistema TRUE se divide em 4 modulos:
     		\begin{itemize}
     		  \item \textbf{Rastreamento}
@@ -141,44 +147,195 @@
 	% ------------- Sistema TRUE -> Rastreamento -------------
     \subsection{Rastreamento}
 		\begin{frame}
-	    	\frametitle{Rastreamento}
+	    	\frametitle{Sistema TRUE - Rastreamento}
 	    	
 	    \end{frame}
     
 	% ------------- Sistema TRUE -> Reconhecimento -------------
     \subsection{Reconhecimento}
 		\begin{frame}
-	    	\frametitle{Reconhecimento}
+	    	\frametitle{Sistema TRUE - Reconhecimento}
 	    	
 	    \end{frame}
     
 	% ------------- Sistema TRUE -> Registro -------------
     \subsection{Registro}
 		\begin{frame}
-	    	\frametitle{Registro}
+	    	\frametitle{Sistema TRUE - Registro}
 	    	
 	    \end{frame}
     
 	% ------------- Sistema TRUE -> Integração -------------
     \subsection{Integração}
 		\begin{frame}
-	    	\frametitle{Integração}
+	    	\frametitle{Sistema TRUE - Integração}
 	    	
 	    \end{frame}
     
 	% ------------- Sistema TRUE -> Relação entre os modulos -------------
     \subsection{Relação entre os modulos}
 		\begin{frame}
-	    	\frametitle{Relação entre os modulos}
+	    	\frametitle{Sistema TRUE - Relação entre os modulos}
 	    	
 	    \end{frame}
 
 % ------------- Resultados obtidos -------------
 \section{Resultados obtidos}
 
+   	\begin{frame}
+    	\frametitle{Resultados obtidos}
+    \end{frame}
+
+	% ------------- Resultados obtidos -> Rastreamento -------------
+    \subsection{Rastreamento}
+    	\begin{frame}
+	    	\frametitle{Rastreamento - Detecção}
+	    	
+			\begin{figure}[htb]
+				\begin{center}
+					\subfloat[] {
+						\includegraphics[width=0.24\textwidth]{figuras/5.Testes/deteccao/1.png}}
+					\subfloat[] {
+						\includegraphics[width=0.24\textwidth]{figuras/5.Testes/deteccao/2.png}}
+					\subfloat[] {
+						\includegraphics[width=0.24\textwidth]{figuras/5.Testes/deteccao/3.png}}
+					\subfloat[] {
+						\includegraphics[width=0.24\textwidth]{figuras/5.Testes/deteccao/4.png}}
+				\end{center}
+				\caption{Momento em que um novo usuário foi detectado pelo Sistema TRUE.}
+				\label{fig:testes_deteccao}
+			\end{figure}
+	    \end{frame}
+	    
+	    \begin{frame}
+	    	\frametitle{Rastreamento - Oclusão}
+	    	
+			\begin{figure}[htb]
+				\begin{center}
+					\subfloat[] {
+						\includegraphics[width=0.19\textwidth]{figuras/5.Testes/oclusao/1.png}}
+					\subfloat[] {
+						\includegraphics[width=0.19\textwidth]{figuras/5.Testes/oclusao/2.png}}
+					\subfloat[] {
+						\includegraphics[width=0.19\textwidth]{figuras/5.Testes/oclusao/3.png}}
+					\subfloat[] {
+						\label{fig:testes_oclusao_ocluso}
+						\includegraphics[width=0.19\textwidth]{figuras/5.Testes/oclusao/4.png}}
+					\subfloat[] {
+						\includegraphics[width=0.19\textwidth]{figuras/5.Testes/oclusao/5.png}}
+				\end{center}
+				\caption{Oclusão de usuários.}
+				\label{fig:testes_oclusao}
+			\end{figure}
+	    \end{frame}
+	    
+	    \begin{frame}
+	    	\frametitle{Rastreamento - Interferência}
+	    	
+			\begin{figure}[htb]
+				\begin{center}
+					\subfloat[] {
+						\includegraphics[width=0.32\textwidth]{figuras/5.Testes/relacionamento_com_pessoas/1.png}}
+					\subfloat[] {
+						\includegraphics[width=0.32\textwidth]{figuras/5.Testes/relacionamento_com_pessoas/2.png}}
+					\subfloat[] {
+						\includegraphics[width=0.32\textwidth]{figuras/5.Testes/relacionamento_com_pessoas/3.png}}
+				\end{center}
+				\caption{Usuários sofrendo interferência dos que estão ao seu redor.}
+				\label{fig:testes_relacionamento_com_usuarios}
+			\end{figure}
+	    \end{frame}
+		
+		\begin{frame}
+	    	\frametitle{Rastreamento}
+			
+			\begin{figure}[htb]
+				\begin{center}
+					\includegraphics[width=0.9\textwidth]{figuras/5.Testes/oclusao/usuarios-rastreados.png}
+				\end{center}
+				\caption{Usuários rastreados pelo Sistema TRUE.}
+				\label{fig:varios-usuarios-ambiente}
+			\end{figure}
+	    \end{frame}    
+   
+   
+	% ------------- Resultados obtidos -> Localização -------------
+    \subsection{Localização}
+    
+    	\begin{frame}
+	    	\frametitle{Localização - eixo z}
+	    	
+	    	\begin{figure}[htb]
+				\begin{center}
+					\includegraphics[width=0.95\textwidth]{figuras/5.Testes/teste-eixoz.png}
+				\end{center}
+			\end{figure}
+	    \end{frame}
+	    
+    	\begin{frame}
+	    	\frametitle{Localização - eixo z}
+	    	
+	    	\begin{figure}[htb]
+				\begin{center}
+					\includegraphics[width=0.95\textwidth]{figuras/5.Testes/grafico-eixo-z.png}
+				\end{center}
+			\end{figure}
+	    \end{frame}
+	        
+    	\begin{frame}
+	    	\frametitle{Localização - eixo x}
+	    	
+	    	\begin{figure}[htb]
+				\begin{center}
+					\includegraphics[width=0.95\textwidth]{figuras/5.Testes/teste-eixox.png}
+				\end{center}
+			\end{figure}
+	    \end{frame}
+	        
+    	\begin{frame}
+	    	\frametitle{Localização - eixo x}
+	    	
+	    	\begin{figure}[htb]
+				\begin{center}
+					\includegraphics[width=0.95\textwidth]{figuras/5.Testes/grafico-eixo-x.png}
+				\end{center}
+			\end{figure}
+	    \end{frame}
+	    
+   
+	% ------------- Resultados obtidos -> Identificação -------------
+    \subsection{Identificação}
+	    \begin{frame}
+	    	\frametitle{Identificação}
+	    	
+	    	Primeiro teste
+	    \end{frame}
+	    
+	    \begin{frame}
+	    	\frametitle{Identificação}
+	    	
+	    	Segundo teste
+	    \end{frame}
+	    
+	% ------------- Resultados obtidos -> Integração -------------
+    \subsection{Integração}
+	    \begin{frame}
+	    	\frametitle{Integração}
+	    	
+	    	\begin{figure}[htb]
+				\begin{center}
+					\includegraphics[width=0.95\textwidth]{figuras/5.Testes/tweets.png}
+				\end{center}
+			\end{figure}
+	    \end{frame}
+	    
 % ------------- Conclusão -------------
 \section{Conclusão}
 
+	\begin{frame}
+		\frametitle{Conclusão}
+	\end{frame}
+	
 \nocite{fabriciobuzzeto,weiser2,saocarlos,yang,hewitt,violajones}
 
 % ------------- Referências -------------

@@ -1,10 +1,10 @@
 This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
-The top-level auxiliary file: presentation.aux
+The top-level auxiliary file: bin/presentation.aux
 The style file: plain.bst
 Database file #1: bibliografia.bib
 You've used 6 entries,
             2118 wiz_defined-function locations,
-            535 strings with 4940 characters,
+            535 strings with 4948 characters,
 and the built_in function-call counts, 1353 in all, are:
 = -- 138
 > -- 42
