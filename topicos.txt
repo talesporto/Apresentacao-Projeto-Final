@@ -1,0 +1,56 @@
+
+1- Introdução
+	- Computação Ubíquoa
+	- Informações de Contexto -> pq são importantes
+
+2- Problema
+
+3- Sistema TRUE
+	- Middleware UbiquitOS
+		-falar bem geral do middleware
+
+	- Modulo de Reconhecimento
+		- falar sobre identificacao
+			- biometria -> o pq da face
+			- um geral sobre reconhecimento facial
+			- detecção com Viola-Jones
+			- reconhecimento com Eigenfaces
+		- falar sobre como o TRUE faz isso
+			- processamento das imgs
+			- detecao
+			- reconhecimento
+
+	- Modulo de Rastreamento
+		- uma geral sobre rastreamento
+			- representacao por silhuetas
+			- rastreamento com silhuetas
+		- uma geral sobre localização
+			- luz estruturada -> kinect
+		- falar como o TRUE faz isso
+			-openni
+
+	- Relacao Reconhecimento Rastreamento
+		- comunicação entre os dois modulos
+		- calculo da label com a media ponderada
+
+	- Modulo de Registro
+		- como funciona o cadastro dos usuarios
+
+	- Modulo de Integracao
+		-integracao em geral
+
+4- Testes
+	- Rastreamento
+		- detecção
+		- oclusão
+		- interação entre usuarios e objetos
+	- Localização
+		- experimentos
+	- Reconhecimento
+		- matriz de confusão
+	- Integração
+		-falar da aplicação
+
+5- Conclusão
+	
+	
