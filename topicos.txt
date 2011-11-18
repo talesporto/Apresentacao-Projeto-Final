@@ -1,33 +1,44 @@
 
-1- Introdução
+1- Motivação
 	- Computação Ubíquoa
-	- Informações de Contexto -> pq são importantes
+	- SmartSpaces
+	- Informações de contexto: identificação, localização.
 
-2- Problema
+2- Conceitos
+	- Rastreamento
+		- representação
+		- detecção
+		- rastreamento
+	- Localização 
+		- TOF
+		- Luz Estruturada
+	- Identificação
+		- Biometria
+		- Reconhecimento Facial
+			- Viola-Jones
+			- Eigenfaces
+3- Problema
 
-3- Sistema TRUE
+4- Sistema TRUE
+	- introdução
+
 	- Middleware UbiquitOS
-		-falar bem geral do middleware
 
 	- Modulo de Reconhecimento
-		- falar sobre identificacao
-			- biometria -> o pq da face
-			- um geral sobre reconhecimento facial
-			- detecção com Viola-Jones
-			- reconhecimento com Eigenfaces
-		- falar sobre como o TRUE faz isso
-			- processamento das imgs
-			- detecao
-			- reconhecimento
+		- processamento das imgs
+		- detecção
+			- viola-jones - classificador de faces frontais
+			- etapas
+		- reconhecimento
+			-eigenfaces
+			-etapas
+			-Distancia Euclidiana x Mahalanobis
 
 	- Modulo de Rastreamento
-		- uma geral sobre rastreamento
-			- representacao por silhuetas
-			- rastreamento com silhuetas
-		- uma geral sobre localização
-			- luz estruturada -> kinect
-		- falar como o TRUE faz isso
-			-openni
+		- openni -> subtração de fundo
+		- luz estruturada -> imgs de profundidade
+		- localização
+		- etapas do rastreamento
 
 	- Relacao Reconhecimento Rastreamento
 		- comunicação entre os dois modulos
@@ -37,7 +48,7 @@
 		- como funciona o cadastro dos usuarios
 
 	- Modulo de Integracao
-		-integracao em geral
+		-User Driver
 
 4- Testes
 	- Rastreamento
@@ -52,5 +63,7 @@
 		-falar da aplicação
 
 5- Conclusão
+
+6- Trabalhos Futuros
 	
 	

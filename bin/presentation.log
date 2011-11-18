@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.25)  15 NOV 2011 10:44
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.25)  18 NOV 2011 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1294,7 +1294,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
 
 [14
 
-] <figuras/5.Testes/deteccao/1.png, id=769, 714.67pt x 483.8075pt>
+] <figuras/5.Testes/deteccao/1.png, id=770, 714.67pt x 483.8075pt>
 File: figuras/5.Testes/deteccao/1.png Graphic file (type png)
 
 <use figuras/5.Testes/deteccao/1.png>
@@ -1302,7 +1302,7 @@ Package pdftex.def Info: figuras/5.Testes/deteccao/1.png used on input line 208
 .
 (pdftex.def)             Requested size: 69.77982pt x 47.23193pt.
 
-<figuras/5.Testes/deteccao/2.png, id=770, 714.67pt x 483.8075pt>
+<figuras/5.Testes/deteccao/2.png, id=771, 714.67pt x 483.8075pt>
 File: figuras/5.Testes/deteccao/2.png Graphic file (type png)
 
 <use figuras/5.Testes/deteccao/2.png>
@@ -1310,7 +1310,7 @@ Package pdftex.def Info: figuras/5.Testes/deteccao/2.png used on input line 208
 .
 (pdftex.def)             Requested size: 69.77982pt x 47.23193pt.
 
-<figuras/5.Testes/deteccao/3.png, id=771, 716.6775pt x 482.80376pt>
+<figuras/5.Testes/deteccao/3.png, id=772, 716.6775pt x 482.80376pt>
 File: figuras/5.Testes/deteccao/3.png Graphic file (type png)
 
 <use figuras/5.Testes/deteccao/3.png>
@@ -1318,7 +1318,7 @@ Package pdftex.def Info: figuras/5.Testes/deteccao/3.png used on input line 208
 .
 (pdftex.def)             Requested size: 69.77982pt x 47.00871pt.
 
-<figuras/5.Testes/deteccao/4.png, id=772, 714.67pt x 482.80376pt>
+<figuras/5.Testes/deteccao/4.png, id=773, 714.67pt x 482.80376pt>
 File: figuras/5.Testes/deteccao/4.png Graphic file (type png)
 
 <use figuras/5.Testes/deteccao/4.png>
@@ -1339,7 +1339,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
  <./figuras/5.Testes/deteccao/1.png (PNG copy)> <./figuras/5.Testes/deteccao/2.
 png (PNG copy)> <./figuras/5.Testes/deteccao/3.png (PNG copy)> <./figuras/5.Tes
 tes/deteccao/4.png (PNG copy)>]
-<figuras/5.Testes/oclusao/1.png, id=821, 716.6775pt x 480.79625pt>
+<figuras/5.Testes/oclusao/1.png, id=822, 716.6775pt x 480.79625pt>
 File: figuras/5.Testes/oclusao/1.png Graphic file (type png)
 
 <use figuras/5.Testes/oclusao/1.png>
@@ -1347,7 +1347,7 @@ Package pdftex.def Info: figuras/5.Testes/oclusao/1.png used on input line 230.
 
 (pdftex.def)             Requested size: 55.2418pt x 37.0559pt.
 
-<figuras/5.Testes/oclusao/2.png, id=822, 715.67375pt x 482.80376pt>
+<figuras/5.Testes/oclusao/2.png, id=823, 715.67375pt x 482.80376pt>
 File: figuras/5.Testes/oclusao/2.png Graphic file (type png)
 
 <use figuras/5.Testes/oclusao/2.png>
@@ -1355,7 +1355,7 @@ Package pdftex.def Info: figuras/5.Testes/oclusao/2.png used on input line 230.
 
 (pdftex.def)             Requested size: 55.2418pt x 37.26219pt.
 
-<figuras/5.Testes/oclusao/3.png, id=823, 717.68124pt x 485.815pt>
+<figuras/5.Testes/oclusao/3.png, id=824, 717.68124pt x 485.815pt>
 File: figuras/5.Testes/oclusao/3.png Graphic file (type png)
 
 <use figuras/5.Testes/oclusao/3.png>
@@ -1363,7 +1363,7 @@ Package pdftex.def Info: figuras/5.Testes/oclusao/3.png used on input line 230.
 
 (pdftex.def)             Requested size: 55.2418pt x 37.39081pt.
 
-<figuras/5.Testes/oclusao/4.png, id=824, 714.67pt x 481.8pt>
+<figuras/5.Testes/oclusao/4.png, id=825, 714.67pt x 481.8pt>
 File: figuras/5.Testes/oclusao/4.png Graphic file (type png)
 
 <use figuras/5.Testes/oclusao/4.png>
@@ -1371,7 +1371,7 @@ Package pdftex.def Info: figuras/5.Testes/oclusao/4.png used on input line 230.
 
 (pdftex.def)             Requested size: 55.2418pt x 37.23618pt.
 
-<figuras/5.Testes/oclusao/5.png, id=825, 716.6775pt x 481.8pt>
+<figuras/5.Testes/oclusao/5.png, id=826, 716.6775pt x 481.8pt>
 File: figuras/5.Testes/oclusao/5.png Graphic file (type png)
 
 <use figuras/5.Testes/oclusao/5.png>
@@ -1392,7 +1392,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
  <./figuras/5.Testes/oclusao/1.png (PNG copy)> <./figuras/5.Testes/oclusao/2.pn
 g (PNG copy)> <./figuras/5.Testes/oclusao/3.png (PNG copy)> <./figuras/5.Testes
 /oclusao/4.png (PNG copy)> <./figuras/5.Testes/oclusao/5.png (PNG copy)>]
-<figuras/5.Testes/relacionamento_com_pessoas/1.png, id=873, 717.68124pt x 481.8
+<figuras/5.Testes/relacionamento_com_pessoas/1.png, id=874, 717.68124pt x 481.8
 pt>
 File: figuras/5.Testes/relacionamento_com_pessoas/1.png Graphic file (type png)
 
@@ -1401,7 +1401,7 @@ Package pdftex.def Info: figuras/5.Testes/relacionamento_com_pessoas/1.png used
  on input line 247.
 (pdftex.def)             Requested size: 93.03976pt x 62.45975pt.
 
-<figuras/5.Testes/relacionamento_com_pessoas/2.png, id=874, 715.67375pt x 479.7
+<figuras/5.Testes/relacionamento_com_pessoas/2.png, id=875, 715.67375pt x 479.7
 925pt>
 File: figuras/5.Testes/relacionamento_com_pessoas/2.png Graphic file (type png)
 
@@ -1410,7 +1410,7 @@ Package pdftex.def Info: figuras/5.Testes/relacionamento_com_pessoas/2.png used
  on input line 247.
 (pdftex.def)             Requested size: 93.03976pt x 62.36789pt.
 
-<figuras/5.Testes/relacionamento_com_pessoas/3.png, id=875, 716.6775pt x 480.79
+<figuras/5.Testes/relacionamento_com_pessoas/3.png, id=876, 716.6775pt x 480.79
 625pt>
 File: figuras/5.Testes/relacionamento_com_pessoas/3.png Graphic file (type png)
 
@@ -1427,7 +1427,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
  <./figuras/5.Testes/relacionamento_com_pessoas/1.png (PNG copy)> <./figuras/5.
 Testes/relacionamento_com_pessoas/2.png (PNG copy)> <./figuras/5.Testes/relacio
 namento_com_pessoas/3.png (PNG copy)>]
-<figuras/5.Testes/oclusao/usuarios-rastreados.png, id=922, 719.68875pt x 483.80
+<figuras/5.Testes/oclusao/usuarios-rastreados.png, id=923, 719.68875pt x 483.80
 75pt>
 File: figuras/5.Testes/oclusao/usuarios-rastreados.png Graphic file (type png)
  <use figuras/5.Testes/oclusao/usuarios-rastreados.png>
@@ -1441,7 +1441,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
 [18
 
  <./figuras/5.Testes/oclusao/usuarios-rastreados.png (PNG copy)>]
-<figuras/5.Testes/teste-eixoz.png, id=968, 1322.9425pt x 324.21124pt>
+<figuras/5.Testes/teste-eixoz.png, id=969, 1322.9425pt x 324.21124pt>
 File: figuras/5.Testes/teste-eixoz.png Graphic file (type png)
 
 <use figuras/5.Testes/teste-eixoz.png>
@@ -1455,7 +1455,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
 [19
 
  <./figuras/5.Testes/teste-eixoz.png>]
-<figuras/5.Testes/grafico-eixo-z.png, id=1019, 1042.89626pt x 788.9475pt>
+<figuras/5.Testes/grafico-eixo-z.png, id=1020, 1042.89626pt x 788.9475pt>
 File: figuras/5.Testes/grafico-eixo-z.png Graphic file (type png)
 
 <use figuras/5.Testes/grafico-eixo-z.png>
@@ -1473,7 +1473,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
 [20
 
  <./figuras/5.Testes/grafico-eixo-z.png>]
-<figuras/5.Testes/teste-eixox.png, id=1066, 931.48pt x 221.82875pt>
+<figuras/5.Testes/teste-eixox.png, id=1067, 931.48pt x 221.82875pt>
 File: figuras/5.Testes/teste-eixox.png Graphic file (type png)
 
 <use figuras/5.Testes/teste-eixox.png>
@@ -1487,7 +1487,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
 [21
 
  <./figuras/5.Testes/teste-eixox.png>]
-<figuras/5.Testes/grafico-eixo-x.png, id=1113, 1031.855pt x 759.83875pt>
+<figuras/5.Testes/grafico-eixo-x.png, id=1114, 1031.855pt x 759.83875pt>
 File: figuras/5.Testes/grafico-eixo-x.png Graphic file (type png)
 
 <use figuras/5.Testes/grafico-eixo-x.png>
@@ -1512,7 +1512,7 @@ Overfull \vbox (13.85399pt too high) has occurred while \output is active []
 
 [24
 
-] <figuras/5.Testes/tweets.png, id=1249, 544.0325pt x 246.9225pt>
+] <figuras/5.Testes/tweets.png, id=1250, 544.0325pt x 246.9225pt>
 File: figuras/5.Testes/tweets.png Graphic file (type png)
 
 <use figuras/5.Testes/tweets.png>
@@ -1584,10 +1584,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
  ) 
 Here is how much of TeX's memory you used:
- 17491 strings out of 493763
- 327878 string characters out of 3144954
- 413334 words of memory out of 3000000
- 20267 multiletter control sequences out of 15000+200000
+ 17496 strings out of 493763
+ 327941 string characters out of 3144954
+ 413345 words of memory out of 3000000
+ 20268 multiletter control sequences out of 15000+200000
  11751 words of font info for 43 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  49i,16n,64p,427b,643s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1598,10 +1598,10 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
 usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></
 usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on bin/presentation.pdf (29 pages, 2464258 bytes).
+Output written on bin/presentation.pdf (29 pages, 2464252 bytes).
 PDF statistics:
- 1534 PDF objects out of 1728 (max. 8388607)
+ 1535 PDF objects out of 1728 (max. 8388607)
  1446 compressed objects within 15 object streams
  89 named destinations out of 1000 (max. 500000)
- 305 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 310 words of extra memory for PDF output out of 10000 (max. 10000000)
 
